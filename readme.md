@@ -1,5 +1,9 @@
 # Qurious — AI Financial Quant Platform
 
+> 팀 Qurious(4인)의 2 · 3차 프로젝트 사본입니다 · 원본 [EST-team-project/Qurious](https://github.com/EST-team-project/Qurious)
+>
+> **제 역할 (신장환)** — 3차: 기본 인디케이터 전략 · 커스텀 인디케이터 (전략 카드 · LEAN 교차 검증 · 기준 전략 110개 백테스트) · 2차: 패턴 예측 · XAI (다중 주기 신호 · 차트 패턴 · 패턴 통계)
+
 <p align="center">
   <img src="docs/common/02-design/img/readme/qurious-banner_v2.1.png" alt="Qurious — AI Financial Quant Platform 배너. 자기 투자 규칙을 믿어도 되는지 판단하도록 돕는 학습 · 검증 플랫폼으로, 규칙 세우기(투자 성향 진단 · 자산 배분) · 검증(비용을 뺀 성과 · 모의투자) · 근거(법령 원문 번호)의 세 단계를 보인다" width="900">
 </p>
