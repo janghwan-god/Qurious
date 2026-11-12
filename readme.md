@@ -1,6 +1,6 @@
 # Qurious — AI Financial Quant Platform
 
-> 팀 Qurious(4인)의 2 · 3차 프로젝트 사본입니다 · 원본 [EST-team-project/Qurious](https://github.com/EST-team-project/Qurious)
+> 팀 Qurious(4인)가 진행한 2 · 3차 팀 프로젝트입니다 · 원본 저장소 [EST-team-project/Qurious](https://github.com/EST-team-project/Qurious)
 >
 > **제 역할 (신장환)** — 3차: 기본 인디케이터 전략 · 커스텀 인디케이터 (전략 카드 · LEAN 교차 검증 · 기준 전략 110개 백테스트) · 2차: 패턴 예측 · XAI (다중 주기 신호 · 차트 패턴 · 패턴 통계)
 
